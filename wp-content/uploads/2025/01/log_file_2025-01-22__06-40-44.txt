@@ -1,0 +1,150 @@
+
+---Downloaded files---
+The import files for: Mediax Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/bkt_hospital
+Data file = C:\xampp\htdocs\bkt_hospital/wp-content/themes/mediax/inc/demo-data/mediax-demo.xml
+Widget file = C:\xampp\htdocs\bkt_hospital/wp-content/themes/mediax/inc/demo-data/mediax-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+mediax_opt -> C:\xampp\htdocs\bkt_hospital/wp-content/themes/mediax/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Mediax :: Search Form - No Title - Imported
+Mediax :: Category List - Categories - Imported
+Mediax :: Recent Posts - Recent Posts - Imported
+Block - No Title - Imported
+
+Page Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Widgets Area 1 : 
+
+Block - No Title - Imported
+
+Footer Widgets Area 2 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Widgets Area 3 : 
+
+Navigation Menu - Popular Service - Imported
+
+Footer Widgets Area 4 : 
+
+Mediax :: Recent Posts - Recent Posts - Imported
+
+Offcanvas Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+WooCommerce Sidebar : 
+
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: mediax_opt finished successfully!
+
+---ocdi/after_import---
+

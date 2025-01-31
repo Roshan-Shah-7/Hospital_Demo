@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on January 31, 2025 at 9:42 am by All in One SEO v4.7.8 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://roshan-shah-7.github.io/Hospital_Demo/default-sitemap.xsl?sitemap=post_tag"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/tag/advice/]]></loc>
+		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/tag/doctors/]]></loc>
+		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/tag/health/]]></loc>
+		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/tag/hospital/]]></loc>
+		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/tag/medical/]]></loc>
+		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/tag/medicine/]]></loc>
+		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/tag/skin-care/]]></loc>
+		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/tag/solution/]]></loc>
+		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+</urlset>

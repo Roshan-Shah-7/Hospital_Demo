@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on January 31, 2025 at 9:42 am by All in One SEO v4.7.8 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://roshan-shah-7.github.io/Hospital_Demo/default-sitemap.xsl?sitemap=mediax_tab_builder"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/?mediax_tab_builder=our-emergency-case%5D%5D%3E</loc>
+		<lastmod><![CDATA[2025-01-22T06:52:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2023/12/why_2_2.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/?mediax_tab_builder=our-opening-hours%5D%5D%3E</loc>
+		<lastmod><![CDATA[2025-01-22T06:52:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2023/12/why_2_3.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/?mediax_tab_builder=our-professional-skills%5D%5D%3E</loc>
+		<lastmod><![CDATA[2023-12-20T02:51:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/why_2.jpg]]></image:loc>
+		</image:image>
+	</url>
+</urlset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on January 31, 2025 at 9:42 am by All in One SEO v4.7.8 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://roshan-shah-7.github.io/Hospital_Demo/default-sitemap.xsl?sitemap=mediax_footerbuild"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/?mediax_footerbuild=footer-two%5D%5D%3E</loc>
+		<lastmod><![CDATA[2025-01-22T06:52:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/logo-footer.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/pattern_shape_5.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2023/12/pattern_shape_6-1.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/?mediax_footerbuild=footer-three%5D%5D%3E</loc>
+		<lastmod><![CDATA[2025-01-22T06:52:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/logo-footer.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2024/03/apple_store.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2024/03/play_store.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/?mediax_footerbuild=footer-four%5D%5D%3E</loc>
+		<lastmod><![CDATA[2025-01-22T06:52:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2024/09/logo2-white.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/blog-s-1-6-85x85.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/blog-s-1-2-85x85.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/?mediax_footerbuild=footer-one%5D%5D%3E</loc>
+		<lastmod><![CDATA[2023-12-10T10:43:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/apple_store.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/play_store.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/payment_methods.png]]></image:loc>
+		</image:image>
+	</url>
+</urlset>

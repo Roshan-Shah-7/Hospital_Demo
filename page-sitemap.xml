@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on January 31, 2025 at 9:57 am by All in One SEO v4.7.8 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on February 3, 2025 at 6:48 am by All in One SEO v4.7.8 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://roshan-shah-7.github.io/Hospital_Demo/default-sitemap.xsl?sitemap=page"?>
 <urlset
@@ -9,7 +9,7 @@
 >
 	<url>
 		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/]]></loc>
-		<lastmod><![CDATA[2025-01-29T09:06:28+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-02-03T05:29:37+00:00]]></lastmod>
 		<changefreq><![CDATA[always]]></changefreq>
 		<priority><![CDATA[1]]></priority>
 		<image:image>
@@ -89,6 +89,96 @@
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2023/12/blog-s-1-2.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/about/]]></loc>
+		<lastmod><![CDATA[2025-02-03T05:57:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2025/01/bktlogo-1.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/choose_feature_1.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/choose_feature_2.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/choose_feature_3.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/choose_feature_4.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/video_1.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2025/01/2.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2025/01/1.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2024/09/gallery_3_3.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2024/03/about_5_2.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2024/03/gallery_2_3.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2024/03/service_block_1.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/quote_1.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/testi_1_1.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/testi_1_2.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/services/]]></loc>
+		<lastmod><![CDATA[2025-02-03T05:39:55+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2025/01/bktlogo-1.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/service_card_1.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/service_card_2.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/service_card_5.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2023/12/service_card_9.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/service_card_7.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/service_card_8.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2025/01/icons8-acid-flask-96.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2023/12/feature_box_3.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/service_card_11.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2025/01/icons8-icu-64.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -209,96 +299,6 @@
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2023/12/service_inner_1.jpg]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/services/]]></loc>
-		<lastmod><![CDATA[2025-01-29T10:03:53+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2025/01/bktlogo-1.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/service_card_1.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/service_card_2.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/service_card_5.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2023/12/service_card_9.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/service_card_7.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/service_card_8.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2025/01/icons8-acid-flask-96.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2023/12/feature_box_3.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/service_card_11.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2025/01/icons8-icu-64.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/about/]]></loc>
-		<lastmod><![CDATA[2025-01-29T09:14:32+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2025/01/bktlogo-1.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/choose_feature_1.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/choose_feature_2.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/choose_feature_3.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/choose_feature_4.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/video_1.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2025/01/2.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2025/01/1.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2024/09/gallery_3_3.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2024/03/about_5_2.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2024/03/gallery_2_3.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://roshan-shah-7.github.io/Hospital_Demo/wp-content/uploads/2024/03/service_block_1.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/quote_1.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/testi_1_1.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://wordpress.themeholy.com/mediax/wp-content/uploads/2023/12/testi_1_2.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
